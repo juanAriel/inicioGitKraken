@@ -11,3 +11,9 @@ esto es para verificar los cambios
 
 
 aqui hay un cambio
+
+
+Success!
+Congratulations, your connection was successful!
+
+GitHub and GitKraken are good to go!
