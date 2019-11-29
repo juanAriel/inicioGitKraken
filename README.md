@@ -61,3 +61,9 @@ GitHub and GitKraken are good to go!
 <p>este es un parrafo de los primeros commit</p>
 
 <p>este es un parrafo de los primeros commit</p>
+
+
+
+
+
+combinar con el develop con ayuda de un pull requets
